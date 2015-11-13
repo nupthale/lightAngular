@@ -1,3 +1,5 @@
+[完整gitbook](http://nupthale.github.io/lightAngular/)
+
 &emsp;&emsp;这是一篇关于angular是否适合开发页面组件的调研；为了更清楚的阐述问题，首先介绍了angular的一些基础，然后针对它的特性，提出angular轻量化使用的一种方案，并给出网络上一些人对于此问题的看法，最后给出实践的demo；
 
 # Refs
